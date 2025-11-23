@@ -1,4 +1,4 @@
-# Car-Hub - Car Rental & Sale Platform
+# Fleet-Hub - Car Rental & Sale Platform
 
 A modern full-stack car rental and sale marketplace platform built with React and NestJS.
 
@@ -40,7 +40,7 @@ A modern full-stack car rental and sale marketplace platform built with React an
 
 ```bash
 git clone https://github.com/AshenafiTech/Car_Hub
-cd Car-Hub
+cd Fleet-Hub
 ```
 
 ### 2. Backend Setup
